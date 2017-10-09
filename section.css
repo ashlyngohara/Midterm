@@ -1,0 +1,72 @@
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:450%;
+	color: #EEE9FF;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+header {
+	color: #EEE9FF;
+}
+
+ul {
+	font-size: 150%;
+	text-align: right;
+	margin-right: 50px;
+}
+
+li {
+	display:inline;
+	text-decoration: none;
+	margin: 5px;
+}
+
+html {
+	background: url(https://static.pexels.com/photos/7480/sky-night-stars.jpg);
+	background-size: 100%;
+}
+
+a:link {
+    color: #EEE9FF;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #EEE9FF ;
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: #EEE9FF;
+}
+
+.article1 {
+	color:#ABDEFF;
+	font-size: 100%
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.text1 {
+	color:white;
+	font-size:75%;
+}
+
+div {
+	width:25%;
+	border:1px solid grey;
+	margin:20px;
+	padding: 20px;
+	background-color: rgba(0,0,0,.5);
+	display:inline-block;
+}
+
+h1 {
+	font-color:#EEE9FF;
+}
