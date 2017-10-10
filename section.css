@@ -86,7 +86,7 @@ height: 200px;
 width: 305px;
 border: 1px solid black;
 float: right;
-margin: -150px 10px 100px 100px;
+margin: -115px 10px 100px 100px;
 
 }
 
@@ -96,7 +96,7 @@ height: 220px;
 width: 325px;
 border: 1px solid black;
 float: right;
-margin: -250px 10px 100px 100px;
+margin: -200px 10px 100px 100px;
 }
 
 .family2 {
@@ -105,7 +105,5 @@ height: 220px;
 width: 325px;
 border: 1px solid black;
 float: right;
-margin: -250px 10px 100px 100px;
+margin: -220px 10px 100px 100px;
 }
-
-
